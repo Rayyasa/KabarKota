@@ -1,0 +1,25 @@
+body {
+  font-family: Georgia, serif;
+  line-height: 1.7;
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 20px;
+  color: #222;
+}
+
+header {
+  font-size: 22px;
+  font-weight: bold;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 10px;
+}
+
+header b { color: #c62828; }
+
+.tag { color: #c62828; font-size: 13px; text-transform: uppercase; }
+
+.meta { color: #777; font-size: 14px; }
+
+img { width: 100%; }
+
+figcaption { color: #777; font-size: 13px; }
