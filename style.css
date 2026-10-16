@@ -14,12 +14,43 @@ header {
   padding-bottom: 10px;
 }
 
-header b { color: #c62828; }
+header b {
+  color: #c62828;
+}
 
-.tag { color: #c62828; font-size: 13px; text-transform: uppercase; }
+.tag {
+  color: #c62828;
+  font-size: 13px;
+  text-transform: uppercase;
+}
 
-.meta { color: #777; font-size: 14px; }
+.meta {
+  color: #777;
+  font-size: 14px;
+}
 
-img { width: 100%; }
+img {
+  width: 100%;
+}
 
-figcaption { color: #777; font-size: 13px; }
+figcaption {
+  color: #777;
+  font-size: 13px;
+}
+
+h2 {
+  font-size: 20px;
+  margin-top: 30px;
+}
+
+p,
+li {
+  text-align: justify;
+}
+
+.sumber {
+  font-size: 13px;
+  color: #777;
+  border-top: 1px solid #ccc;
+  padding-top: 10px;
+}
